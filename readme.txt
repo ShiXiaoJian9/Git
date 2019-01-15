@@ -1,2 +1,2 @@
 readme
-create a new branch & master
+create a new branch dev and master
